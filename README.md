@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Twitter clone**
 
-- 🌱 I’m currently learning **react , Nextjs**
+- 🌱 I’m currently learning **Spring Boot , Nextjs , Spring**
 
 - 💬 Ask me about **react, java , javascript , typescript**
 
